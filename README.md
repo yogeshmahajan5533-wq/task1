@@ -54,18 +54,22 @@ Caesar-Cipher/
 ├── caesar-cipher-task1.py
 └── README.md
 
-🟢 Case 1: Encryption
-  Input
-    Enter your choice: 1
-    Enter text to encrypt: Hello World
+:: Example ->
+	 Case 1: Encryption
+Input
+Enter your choice: 1
+Enter text to encrypt: Hello World
 
-  Output
-    Encrypted: Khoor Zruog
+Output
+Encrypted: Khoor Zruog
 
-🟢 Case 2: Decryption
-  Input
-    Enter your choice: 2
-    Enter text to decrypt: Khoor Zruog
+	 Case 2: Decryption
+Input
+Enter your choice: 2
+Enter text to decrypt: Khoor Zruog
 
-  Output
-    Decrypted: Hello World
+Output
+Decrypted: Hello World
+
+## Limitations
+- Not secure for real-world encryption
