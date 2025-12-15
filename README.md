@@ -40,10 +40,32 @@ The Caesar Cipher works by shifting each character in the message by a fixed num
 ## ▶️ How to Run
 
 1. Ensure Python is installed on your system.
-2. Save the program as `caesar_cipher.py`.
+2. Save the program as `caesar-cipher-task1.py`.
 3. Open the terminal or command prompt.
 4. Execute the program:
 
 ```bash
-python caesar_cipher.py
+python caesar-cipher-task1.py
 
+## File Structure
+
+Caesar-Cipher/
+│
+├── caesar-cipher-task1.py
+└── README.md
+
+🟢 Case 1: Encryption
+  Input
+    Enter your choice: 1
+    Enter text to encrypt: Hello World
+
+  Output
+    Encrypted: Khoor Zruog
+
+🟢 Case 2: Decryption
+  Input
+    Enter your choice: 2
+    Enter text to decrypt: Khoor Zruog
+
+  Output
+    Decrypted: Hello World
